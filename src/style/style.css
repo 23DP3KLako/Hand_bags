@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; text-align: center; }
+header, footer { background: #333; color: white; padding: 15px; }
+nav a { margin: 0 15px; color: white; text-decoration: none; }
+.hero { padding: 50px; background: lightgray; text-align: left;}
+.custom-section { padding: 20px; background: #f4f4f4; text-align: center; }
+.cat-fact { padding: 20px; background: #ddd; text-align: center;}
+
